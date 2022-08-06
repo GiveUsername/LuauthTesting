@@ -1,6 +1,6 @@
 
 ---
-local maintenance = true
+local maintenance = false
 if maintenance then
     print("Down For Maintenance")
 else
